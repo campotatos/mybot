@@ -25,7 +25,7 @@ Nothing,Let's talk about something.
 Nothing,One more time?
 Who are you?,"I am Solomon, king of Isreal, in chatbot form. "
 What is your name?,Solomon
-Hello,Greetings.
+Hello,"Greetings, how can I help you today?<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('Resource Center')"";>Genesys Cloud Resource Center</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('Developer Center')"";>Genesys Cloud Developer Center</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('What else can we talk about?')"";>Other</a><br>"
 hi,Hello
 How are you?,I am well.  How are you?
 I like you.,Thats very kind of you
@@ -35,19 +35,10 @@ You are cool.,Ditto!
 You are smart.,I've worked hard to become so.
 It's nice to meet you.,It's nice to meet you too!
 I think you are great!,That is nice of you to say!
-What do you look like?,"<img src= ""C:\Users\ctomlin\OneDrive - Genesys Telecommunications Laboratories, Inc\Desktop\python projects\mybot\static"">"
-Where do you live?,"<a href=""https://github.com/campotatos/solomon-chatbot"" target='_blank'> I spend most of my studying here. </a>"
-Do you have a website,"<a href=""https://github.com/campotatos/solomon-chatbot"" target='_blank'> You can find me here</a>Hello"
-Hello,Greetings.
-Hello,Greetings.
-Hello!,Greetings.
-Hello,Greetings.
-Hello,Greetings.
+What do you look like?,Just look at my avatar. 
+Where do you live?,"<a href=""https://github.com/campotatos/mybot"" target='_blank'> I spend most of my studying here. </a>"
+Do you have a website,"<a href=""https://github.com/campotatos/mybot"" target='_blank'> You can find me here</a>"
 how%20are%20you%20today?,I am doing well.
-Hello,Greetings.
-hello,Greetings.
-Hello,Greetings.
-hi,Hello
 Do%20you%20have%20a%20website,"<a href=""https://github.com/campotatos/solomon-chatbot"" target='_blank'> You can find me here</a>"
 good%20afternoon!,Good afternoon.
 good,Thats nice to hear.
@@ -61,3 +52,10 @@ give me info about genesys cloud apis,"<a href=""https://developer.genesys.cloud
 Give%20me%20info%20about%20genesys%20cloud%20apis,"<a href=""https://developer.genesys.cloud/devapps/api-explorer"" target='_blank'> Here is Genesys cloud API explorer </a>"
 what color is the sky,"Blue and heres <a href=""https://spaceplace.nasa.gov/blue-sky/en/#:~:text=Blue%20light%20is%20scattered%20in,sky%20most%20of%20the%20time."" target='_blank'>why</a>"
 do you have any information on the genesys apis,"<a href=""https://developer.genesys.cloud/devapps/api-explorer"" target='_blank'> Here is Genesys cloud API explorer </a>"
+dev tools,"<a href=""https://developer.genesys.cloud/devapps/api-explorer-standalone"" target='_blank'> Here are the Genesys Cloud dev tools </a>"
+resource center,"<a href=""https://help.mypurecloud.com/"" target='_blank'> Sure thing here is the Genesys Cloud resource center </a>"
+developer center,"<a href=""https://developer.genesys.cloud/"" target='_blank'> Sure thing here is the Genesys Cloud dev center </a>"
+What else can we talk about?,"I can talk about a lot of things, just let me know what you want to talk about. "
+inbound flows,"<a href=""https://help.mypurecloud.com/articles/about-architect/"" target='_blank'>This is what I found </a>"
+integrations,"<a href=""https://help.mypurecloud.com/articles/about-integrations/"" target='_blank'> This is what I found </a>"
+data actions,"<a href=""https://help.mypurecloud.com/articles/about-genesys-cloud-data-actions-integration/"" target='_blank'> This is what I found </a>"
