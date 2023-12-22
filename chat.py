@@ -27,7 +27,7 @@ except IOError:
 def tryGoogle(myQuery):
     myQuery = myQuery.replace("'", "%27")
     showQuery = urllib.parse.unquote(myQuery)
-    return "<br><br>You can look through my library Google: <a target='_blank' href='https://www.google.com/search?q=" + myQuery + "'>" + showQuery + "</a>"
+    return "<br><br>You can look through my library: <a target='_blank' href='https://www.google.com/search?q=" + myQuery + "'>" + showQuery + "</a>"
 
 @application.route("/")
 def home():

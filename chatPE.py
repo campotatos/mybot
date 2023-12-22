@@ -27,7 +27,7 @@ app = Flask(__name__)
 def tryGoogle(myQuery):
     myQuery = myQuery.replace("'", "%27")
     showQuery = urllib.parse.unquote(myQuery)
-    return "<br><br>You can try this from my friend Google: <a target='_blank' href='https://www.google.com/search?q=" + myQuery + "'>" + showQuery + "</a>"
+    return "<br><br>You can look through my library: <a target='_blank' href='https://www.google.com/search?q=" + myQuery + "'>" + showQuery + "</a>"
 
 @app.route("/")
 def home():
