@@ -32,7 +32,7 @@ Hello,"Greetings, how can I help you today?
 <br><a class=""chatSuggest"" onclick=""$(this).show(); chatSuggest('SERVOPS')"";>SERVOPS</a>
 <br><a class=""chatSuggest"" onclick=""$(this).show(); chatSuggest('Salesforce')"";>Salesforce</a>
 <br><a class=""chatSuggest"" onclick=""$(this).show(); chatSuggest('What else can we talk about?')"";>Just want to chat?</a>
-<br> or do you want to learn more about me?<a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('about me')"";>Me!</a>
+<br> or do you want to learn more about<a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('about me')"";>Me?</a>
 <br> If you ever get lost just say 'hello'!"
 hi,Hello
 How are you?,I am well.  How are you?
