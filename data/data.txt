@@ -1,0 +1,37 @@
+Sure thing here's a list of all the SDK's GenCloud supports! 
+<br><a href="https://developer.genesys.cloud/devapps/sdk/python" target='_blank'>python sdk</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudpython/" target='_blank'>python sdk explorer</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/dotnet" target='_blank'>.NET sdk</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/docexplorer/pureclouddotnet/" target='_blank'>.NET sdk explorer</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/go" target='_blank'>go sdk</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudgo/" target='_blank'>go sdk explorer</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/ios" target='_blank'>iOS sdk</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudios/" target='_blank'>iOS sdk explorer</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/java" target='_blank'>java sdk</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudjava/" target='_blank'>java sdk explorer</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/javascript" target='_blank'>JavaScript sdk</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudjavascript/" target='_blank'>JavaScript sdk explorer</a>
+
+Sure thing here's everything for the python sdk
+<br><a href="https://developer.genesys.cloud/devapps/sdk/python" target='_blank'>python sdk</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudpython/" target='_blank'>python sdk explorer</a>
+
+Sure thing here's everything for the .NET sdk
+<br><a href="https://developer.genesys.cloud/devapps/sdk/dotnet" target='_blank'>.NET sdk</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/docexplorer/pureclouddotnet/" target='_blank'>.NET sdk explorer</a>
+
+Sure thing here's everything for the go sdk
+<br><a href="https://developer.genesys.cloud/devapps/sdk/go" target='_blank'>go sdk</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudgo/" target='_blank'>go sdk explorer</a>
+
+Sure thing here's everything for the iOS sdk
+<br><a href="https://developer.genesys.cloud/devapps/sdk/ios" target='_blank'>iOS sdk</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudios/" target='_blank'>iOS sdk explorer</a>
+
+Sure thing here's everything for the java sdk
+<br><a href="https://developer.genesys.cloud/devapps/sdk/java" target='_blank'>java sdk</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudjava/" target='_blank'>java sdk explorer</a>
+
+Sure thing here's everything for the JavaScript sdk
+<br><a href="https://developer.genesys.cloud/devapps/sdk/javascript" target='_blank'>JavaScript sdk</a>
+<br><a href="https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudjavascript/" target='_blank'>JavaScript sdk explorer</a>
