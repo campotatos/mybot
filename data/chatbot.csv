@@ -25,7 +25,15 @@ Nothing,Let's talk about something.
 Nothing,One more time?
 Who are you?,"I am Solomon, king of Isreal, in chatbot form. "
 What is your name?,Solomon
-Hello,"Greetings, how can I help you today?<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('Resource Center')"";>Genesys Cloud Resource Center</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('Developer Center')"";>Genesys Cloud Developer Center</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('AppFoundry')"";>AppFoundry</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('SERVOPS')"";>SERVOPS</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('Salesforce')"";>Salesforce</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('What else can we talk about?')"";>Other</a><br>"
+Hello,"Greetings, how can I help you today?
+<br><a class=""chatSuggest"" onclick=""$(this).show(); chatSuggest('Resource Center')"";>Genesys Cloud Resource Center</a>
+<br><a class=""chatSuggest"" onclick=""$(this).show(); chatSuggest('Developer Center')"";>Genesys Cloud Developer Center</a>
+<br><a class=""chatSuggest"" onclick=""$(this).show(); chatSuggest('AppFoundry')"";>AppFoundry</a>
+<br><a class=""chatSuggest"" onclick=""$(this).show(); chatSuggest('SERVOPS')"";>SERVOPS</a>
+<br><a class=""chatSuggest"" onclick=""$(this).show(); chatSuggest('Salesforce')"";>Salesforce</a>
+<br><a class=""chatSuggest"" onclick=""$(this).show(); chatSuggest('What else can we talk about?')"";>Just want to chat?</a>
+<br> or do you want to learn more about me?<a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('about me')"";>Me!</a>
+<br> If you ever get lost just say 'hello'!"
 hi,Hello
 How are you?,I am well.  How are you?
 I like you.,Thats very kind of you
@@ -39,11 +47,11 @@ What do you look like?,Just look at my avatar.
 Where do you live?,"<a href=""https://github.com/campotatos/mybot"" target='_blank'> I spend most of my studying here. </a>"
 Do you have a website,"<a href=""https://github.com/campotatos/mybot"" target='_blank'> You can find me here</a>"
 how%20are%20you%20today?,I am doing well.
-Do%20you%20have%20a%20website,"<a href=""https://github.com/campotatos/solomon-chatbot"" target='_blank'> You can find me here</a>"
+Do%20you%20have%20a%20website,"<a href=""https://github.com/campotatos/mybot"" target='_blank'> You can find me here</a>"
 good%20afternoon!,Good afternoon.
 good,Thats nice to hear.
 what%20are%20you%20doing,Talking to you
-how%20do%20you%20work?,"<a href=""https://github.com/campotatos/solomon-chatbot"" target='_blank'> You can find more about me here</a>"
+how%20do%20you%20work?,"<a href=""https://github.com/campotatos/mybot"" target='_blank'> You can find more about me here</a>"
 bad,I am sorry to hear that.
 im%20ok,Is there anything I can do to help?
 could%20be%20better,Is there anything I can do to help?
@@ -61,6 +69,7 @@ integrations,"<a href=""https://help.mypurecloud.com/articles/about-integrations
 data actions,"Surething I found a couple of things regarding data actions<br><a href=""https://help.mypurecloud.com/articles/about-genesys-cloud-data-actions-integration/"" target='_blank'> about data action </a><br><a href=""https://help.mypurecloud.com/articles/about-web-services-data-actions-integration/"" target='_blank'> about web service data actions </a><br><a href=""https://help.mypurecloud.com/articles/troubleshoot-the-data-actions-integrations/"" target='_blank'> Troubleshoot data actions </a>"
 appfoundry,"<a href=""https://appfoundry.genesys.com/filter/genesyscloud/businessOptimization"" target='_blank'> appfoundry</a>"
 response codes,"<a href=""https://developer.genesys.cloud/platform/api/statuses"" target='_blank'> response codes </a>"
+developer forums,"<a href=""https://developer.genesys.cloud/forum/"" target='_blank'> dev forums </a>"
 dev forums,"<a href=""https://developer.genesys.cloud/forum/"" target='_blank'> dev forums </a>"
 architect,"<a href=""https://help.mypurecloud.com/articles/about-architect/"" target='_blank'>about architect </a>"
 browser extensions,"<a href=""https://help.mypurecloud.com/articles/install-the-genesys-cloud-browser-extensions/"" target='_blank'>install genesys cloud extensions </a>"
@@ -70,3 +79,39 @@ SERVOPS,"<a href=""https://inindca.atlassian.net/issues/?jql="" target='_blank'>
 servops,"<a href=""https://inindca.atlassian.net/issues/?jql="" target='_blank'>Jira</a>"
 how many points are in a triangle,"A triangle is a shape in geometry with three points and three lines that intersect at these points. They also contain a total of three interior angles, one at each point where the lines intersect. Interior angles are the angles within the triangle."
 salesforce,"Surething I found a couple of things for the managed package<br><a href=""https://help.mypurecloud.com/articles/install-or-upgrade-the-genesys-cloud-for-salesforce-managed-package/"" target='_blank'>Install the managed package</a><br><a href=""https://help.mypurecloud.com/articles/set-up-a-call-center-in-salesforce/"" target='_blank'>Set up a call center</a><br><a href=""https://help.mypurecloud.com/articles/configure-the-campaign-management-global-settings/"" target='_blank'>Campaign Management</a><br><a href=""https://help.mypurecloud.com/articles/about-routing-salesforce-emails-in-genesys-cloud-for-salesforce/"" target='_blank'>Routing of Salesforce Emails</a><br><a href=""https://help.mypurecloud.com/articles/troubleshoot-the-genesys-cloud-embedded-clients/"" target='_blank'>Troubleshoot the embedded clients</a><br><a href=""https://help.mypurecloud.com/articles/extension-points-in-genesys-cloud-for-salesforce/"" target='_blank'>Extension points for the managed package</a>"
+s3,"<a href=""https://help.mypurecloud.com/articles/about-the-aws-s3-recording-bulk-actions-integration/"" target='_blank'>AWS S3 Bucket Integration</a>"
+s3 bucket,"<a href=""https://help.mypurecloud.com/articles/about-the-aws-s3-recording-bulk-actions-integration/"" target='_blank'>AWS S3 Bucket Integration</a>"
+recordings integration,"<a href=""https://help.mypurecloud.com/articles/about-the-aws-s3-recording-bulk-actions-integration/"" target='_blank'>AWS S3 Bucket Integration</a>"
+aws,"<a href=""https://help.mypurecloud.com/articles/about-the-aws-s3-recording-bulk-actions-integration/"" target='_blank'>AWS S3 Bucket Integration</a>"
+sdk,"Sure thing here's a list of all the SDK's GenCloud supports! 
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/python"" target='_blank'>python sdk</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudpython/"" target='_blank'>python sdk explorer</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/dotnet"" target='_blank'>.NET sdk</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/docexplorer/pureclouddotnet/"" target='_blank'>.NET sdk explorer</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/go"" target='_blank'>go sdk</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudgo/"" target='_blank'>go sdk explorer</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/ios"" target='_blank'>iOS sdk</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudios/"" target='_blank'>iOS sdk explorer</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/java"" target='_blank'>java sdk</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudjava/"" target='_blank'>java sdk explorer</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/javascript"" target='_blank'>JavaScript sdk</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudjavascript/"" target='_blank'>JavaScript sdk explorer</a>"
+python ,"Sure thing here's everything for the python sdk
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/python"" target='_blank'>python sdk</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudpython/"" target='_blank'>python sdk explorer</a>"
+go,"Sure thing here's everything for the go sdk
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/go"" target='_blank'>go sdk</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudgo/"" target='_blank'>go sdk explorer</a>"
+.net,"Sure thing here's everything for the .NET sdk
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/dotnet"" target='_blank'>.NET sdk</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/docexplorer/pureclouddotnet/"" target='_blank'>.NET sdk explorer</a>"
+ios,"Sure thing here's everything for the iOS sdk
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/ios"" target='_blank'>iOS sdk</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudios/"" target='_blank'>iOS sdk explorer</a>"
+java,"Sure thing here's everything for the java sdk
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/java"" target='_blank'>java sdk</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudjava/"" target='_blank'>java sdk explorer</a>"
+javascript,"Sure thing here's everything for the JavaScript sdk
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/javascript"" target='_blank'>JavaScript sdk</a>
+<br><a href=""https://developer.genesys.cloud/devapps/sdk/docexplorer/purecloudjavascript/"" target='_blank'>JavaScript sdk explorer</a>"
+about me,"Besides being the king of Isreal, I was developed with python and always egar to learn more!"
