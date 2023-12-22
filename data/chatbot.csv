@@ -25,7 +25,7 @@ Nothing,Let's talk about something.
 Nothing,One more time?
 Who are you?,"I am Solomon, king of Isreal, in chatbot form. "
 What is your name?,Solomon
-Hello,"Greetings, how can I help you today?<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('Resource Center')"";>Genesys Cloud Resource Center</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('Developer Center')"";>Genesys Cloud Developer Center</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('What else can we talk about?')"";>Other</a><br>"
+Hello,"Greetings, how can I help you today?<br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('Resource Center')"";>Genesys Cloud Resource Center</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('Developer Center')"";>Genesys Cloud Developer Center</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('AppFoundry')"";>AppFoundry</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('SERVOPS')"";>SERVOPS</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('Salesforce')"";>Salesforce</a><br><a class=""chatSuggest"" onclick=""$(this).hide(); chatSuggest('What else can we talk about?')"";>Other</a><br>"
 hi,Hello
 How are you?,I am well.  How are you?
 I like you.,Thats very kind of you
@@ -56,6 +56,17 @@ dev tools,"<a href=""https://developer.genesys.cloud/devapps/api-explorer-standa
 resource center,"<a href=""https://help.mypurecloud.com/"" target='_blank'> Sure thing here is the Genesys Cloud resource center </a>"
 developer center,"<a href=""https://developer.genesys.cloud/"" target='_blank'> Sure thing here is the Genesys Cloud dev center </a>"
 What else can we talk about?,"I can talk about a lot of things, just let me know what you want to talk about. "
-inbound flows,"<a href=""https://help.mypurecloud.com/articles/about-architect/"" target='_blank'>This is what I found </a>"
-integrations,"<a href=""https://help.mypurecloud.com/articles/about-integrations/"" target='_blank'> This is what I found </a>"
-data actions,"<a href=""https://help.mypurecloud.com/articles/about-genesys-cloud-data-actions-integration/"" target='_blank'> This is what I found </a>"
+inbound flows,"<a href=""https://help.mypurecloud.com/articles/about-architect/"" target='_blank'>about architect </a>"
+integrations,"<a href=""https://help.mypurecloud.com/articles/about-integrations/"" target='_blank'> about integrations </a>"
+data actions,"Surething I found a couple of things regarding data actions<br><a href=""https://help.mypurecloud.com/articles/about-genesys-cloud-data-actions-integration/"" target='_blank'> about data action </a><br><a href=""https://help.mypurecloud.com/articles/about-web-services-data-actions-integration/"" target='_blank'> about web service data actions </a><br><a href=""https://help.mypurecloud.com/articles/troubleshoot-the-data-actions-integrations/"" target='_blank'> Troubleshoot data actions </a>"
+appfoundry,"<a href=""https://appfoundry.genesys.com/filter/genesyscloud/businessOptimization"" target='_blank'> appfoundry</a>"
+response codes,"<a href=""https://developer.genesys.cloud/platform/api/statuses"" target='_blank'> response codes </a>"
+dev forums,"<a href=""https://developer.genesys.cloud/forum/"" target='_blank'> dev forums </a>"
+architect,"<a href=""https://help.mypurecloud.com/articles/about-architect/"" target='_blank'>about architect </a>"
+browser extensions,"<a href=""https://help.mypurecloud.com/articles/install-the-genesys-cloud-browser-extensions/"" target='_blank'>install genesys cloud extensions </a>"
+embeddable framework,"<a href=""https://help.mypurecloud.com/articles/about-genesys-cloud-embeddable-framework/"" target='_blank'>Emeddable framework </a>"
+ef,"<a href=""https://help.mypurecloud.com/articles/about-genesys-cloud-embeddable-framework/"" target='_blank'>Emeddable framework </a>"
+SERVOPS,"<a href=""https://inindca.atlassian.net/issues/?jql="" target='_blank'>Jira</a>"
+servops,"<a href=""https://inindca.atlassian.net/issues/?jql="" target='_blank'>Jira</a>"
+how many points are in a triangle,"A triangle is a shape in geometry with three points and three lines that intersect at these points. They also contain a total of three interior angles, one at each point where the lines intersect. Interior angles are the angles within the triangle."
+salesforce,"Surething I found a couple of things for the managed package<br><a href=""https://help.mypurecloud.com/articles/install-or-upgrade-the-genesys-cloud-for-salesforce-managed-package/"" target='_blank'>Install the managed package</a><br><a href=""https://help.mypurecloud.com/articles/set-up-a-call-center-in-salesforce/"" target='_blank'>Set up a call center</a><br><a href=""https://help.mypurecloud.com/articles/configure-the-campaign-management-global-settings/"" target='_blank'>Campaign Management</a><br><a href=""https://help.mypurecloud.com/articles/about-routing-salesforce-emails-in-genesys-cloud-for-salesforce/"" target='_blank'>Routing of Salesforce Emails</a><br><a href=""https://help.mypurecloud.com/articles/troubleshoot-the-genesys-cloud-embedded-clients/"" target='_blank'>Troubleshoot the embedded clients</a><br><a href=""https://help.mypurecloud.com/articles/extension-points-in-genesys-cloud-for-salesforce/"" target='_blank'>Extension points for the managed package</a>"
